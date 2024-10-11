@@ -1,4 +1,4 @@
-"# DeepLearning_ImageClassification" 
+# DeepLearning_ImageClassification
 
 Food101: Exploring and Enhancing CNN Performance for Image Classification
 
